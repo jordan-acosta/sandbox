@@ -1,0 +1,12 @@
+{
+  "name": "postgraphql",
+  "version": "1.0.0",
+  "description": "Testing postgraphql.",
+  "main": "index.js",
+  "repository": "https://github.com/jordan-acosta/sandbox/postgraphql",
+  "author": "jordanjacosta@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "postgraphql": "^3.5.1"
+  }
+}
