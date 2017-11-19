@@ -1,0 +1,11 @@
+{
+  "name": "graphql-vis",
+  "version": "1.0.0",
+  "description": "Graph queries live.",
+  "main": "src/index.mjs",
+  "author": "jordanjacosta@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^4.11.0"
+  }
+}
