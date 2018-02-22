@@ -1,7 +1,15 @@
 package main
 
-import "fmt"
+import (
+	"log"
+	"os"
+
+	"gqlgen"
+)
 
 func main() {
-	fmt.Println("vim-go")
+	log.SetOutput(os.Stdout)
+	log.SetPrefix("gqlgen ")
+
+	gqlgen.NewAPI()
 }
