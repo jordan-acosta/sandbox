@@ -1,0 +1,30 @@
+LOG:  database system was shut down at 2017-11-09 19:17:28 PST
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  autovacuum launcher started
+LOG:  database system is ready to accept connections
+FATAL:  database "jordan" does not exist
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2017-11-09 19:19:09 PST
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  database "jordan" does not exist
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+/usr/local/Cellar/postgresql/9.6.1/bin/postgres: illegal option -- U
+Try "postgres --help" for more information.
+/usr/local/Cellar/postgresql/9.6.1/bin/postgres: illegal option -- U
+Try "postgres --help" for more information.
+/usr/local/Cellar/postgresql/9.6.1/bin/postgres: illegal option -- U
+Try "postgres --help" for more information.
+/usr/local/Cellar/postgresql/9.6.1/bin/postgres: illegal option -- U
+Try "postgres --help" for more information.
+/usr/local/Cellar/postgresql/9.6.1/bin/postgres: illegal option -- U
+Try "postgres --help" for more information.
